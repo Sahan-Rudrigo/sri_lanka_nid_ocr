@@ -1,0 +1,5 @@
+flask
+pytesseract
+pillow
+opencv-python
+python-dotenv
